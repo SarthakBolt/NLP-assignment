@@ -2,8 +2,8 @@
 Interview task for Exposys Data Labs
 
 ## Steps to run
-Open the .ipynb file in Jupyter Notebook
-Press Shift+Enter to run each code block in the Notebook
+Open the .ipynb file in Jupyter Notebook.
+Press Shift+Enter to run each code block in the Notebook.
 
 ## Dependencies/Libraries used - 
 1. Pandas
